@@ -5,7 +5,7 @@
 ### 🧠 About Me
 I love combining electronics and software there's nothing more satisfying than watching code bring circuits to life. I enjoy bridging the gap between hardware and software turning ideas into blinking LEDs.
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="350" align="right" />
+<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="320" align="right" />
 
 - 🎓 Electronics & Electrical Communication Engineer  
 - 🤖 Currently Working on **deep learning optimization for edge devices**
