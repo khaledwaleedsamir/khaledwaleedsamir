@@ -9,7 +9,7 @@ I love combining electronics and software there's nothing more satisfying than w
 
 - 🎓 Electronics & Electrical Communication Engineer  
 - 🤖 Currently Working on **deep learning optimization for edge devices**
-- 🛠️ Embedded Systems: Hardware, C/C++, AVR/ARM, FreeRTOS, Communication protocols, Embedded Linux
+- 🛠️ Embedded Systems: Hardware, C/C++, AVR/ARM, FreeRTOS, Communication protocols, and Embedded Linux
 - 🚘 Intrested in automotive software, smart systems, and embedded control
 - 🌍 Languages: Arabic (native), English (fluent)
 
